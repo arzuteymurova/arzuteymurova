@@ -1,5 +1,5 @@
-- 👋 Hi, I’m .Net Developer
-- 👀 I’m interested in C#
+- 👋 Hi, I’m Full-stack Developer
+- 👀 I’m interested in C# and Angular
 - 🌱 I’m currently learning Asp.NET
 - 📫 How to reach me arzuteymurova95@gmail.com
 
